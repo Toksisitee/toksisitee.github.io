@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[922],{7659:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/pop-tools","name":"pop-tools","count":5,"permalink":"/blog/tags/pop-tools"}')}}]);
